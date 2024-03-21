@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/hyper92051/stargazers"><img src="https://img.shields.io/github/stars/Hyper-XMusic-2.0/BrandrdXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/hyper92051/stargazers"><img src="https://img.shields.io/github/stars/hyper92051/BrandrdXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/hyper92051/BrandrdXMusic/network/members"> <img src="https://img.shields.io/github/forks/Hyper-XMusic-2.0/BrandrdXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/hyper92051/BrandrdXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/Hyper-XMusic-2.0/BrandrdXMusic/commits/Hyper-XMusic-2.0"> <img src="https://img.shields.io/github/last-commit/hyper92051/BrandrdXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/hyper92051/BrandrdXMusic/commits/Hyper-XMusic-2.0"> <img src="https://img.shields.io/github/last-commit/hyper92051/BrandrdXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -28,7 +28,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/BrandrdXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/hyper92051/BrandrdXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 </p>
 
